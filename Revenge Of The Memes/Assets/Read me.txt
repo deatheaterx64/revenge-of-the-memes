@@ -1,0 +1,3 @@
+Movement wasd or haptic pad
+
+attack left click or any loud enough sound input
